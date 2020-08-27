@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ebanking" duration-ms="53690" started-at="2020-08-16T08:20:49Z" finished-at="2020-08-16T08:21:42Z">
+    <groups>
+    </groups>
+    <test name="BankingApp Test" duration-ms="53690" started-at="2020-08-16T08:20:49Z" finished-at="2020-08-16T08:21:42Z">
+      <class name="com.ebanking.testcases.TC_EditCoustumer_004">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.ebanking.testcases.TC_EditCoustumer_004@6a024a67]" name="setUp" is-config="true" duration-ms="34780" started-at="2020-08-16T08:20:49Z" finished-at="2020-08-16T08:21:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editCoustumer()[pri:0, instance:com.ebanking.testcases.TC_EditCoustumer_004@6a024a67]" name="editCoustumer" duration-ms="17872" started-at="2020-08-16T08:21:24Z" finished-at="2020-08-16T08:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editCoustumer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.ebanking.testcases.TC_EditCoustumer_004@6a024a67]" name="tearDown" is-config="true" duration-ms="1" started-at="2020-08-16T08:21:42Z" finished-at="2020-08-16T08:21:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebanking.testcases.TC_EditCoustumer_004 -->
+    </test> <!-- BankingApp Test -->
+  </suite> <!-- ebanking -->
+</testng-results>

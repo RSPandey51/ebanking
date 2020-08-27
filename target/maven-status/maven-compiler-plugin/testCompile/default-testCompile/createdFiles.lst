@@ -1,0 +1,11 @@
+com\ebanking\pageObject\NewCostumer.class
+com\ebanking\pageObject\EditCoustumer.class
+com\ebanking\testcases\TC_Ebanking_001.class
+com\ebanking\testcases\TC_Ebanking_002.class
+com\ebanking\testcases\TC_EditCoustumer_004.class
+com\ebanking\utility\ReadConfig.class
+com\ebanking\baseClass\BaseClass.class
+com\ebanking\testcases\TC_loginDDT_003.class
+com\ebanking\utility\XLUtility.class
+com\ebanking\pageObject\LoginPage.class
+com\ebanking\utility\Reporting.class
